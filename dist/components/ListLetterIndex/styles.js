@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var react_native_1 = require("react-native");
 var sizes = {
-    containerWidth: 10,
+    containerWidth: 15,
     itemHeight: 15,
     itemFontSize: 10,
 };

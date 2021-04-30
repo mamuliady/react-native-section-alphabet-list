@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 
 const sizes = {
-  containerWidth: 10,
+  containerWidth: 15,
   itemHeight: 15,
   itemFontSize: 10,
 };
