@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
     height: "100%",
     position: "absolute",
     top: 0,
-    right: 0,
+    left: 0,
   },
 
   letterIndexList: {
